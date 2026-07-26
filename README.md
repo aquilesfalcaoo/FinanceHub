@@ -23,7 +23,6 @@ The project aims to simulate a real-world backend used by fintech companies, dem
 - Swagger / OpenAPI
 - Docker
 - xUnit
-- FluentAssertions
 - GitHub Actions
 
 ---
@@ -97,7 +96,6 @@ Dependencies always point inward.
 JWT Bearer Authentication with:
 
 - Access Token
-- Refresh Token
 - Role-based Authorization
 
 ---
@@ -106,9 +104,6 @@ JWT Bearer Authentication with:
 
 - Unit Tests
 - Integration Tests
-- FluentAssertions
-- Moq
-- Testcontainers
 
 ---
 
@@ -117,7 +112,7 @@ JWT Bearer Authentication with:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-user/FinanceHub.git
+git clone https://github.com/aquilesfalcaoo/financehub-api.git
 ```
 
 Restore packages
