@@ -112,7 +112,7 @@ JWT Bearer Authentication with:
 Clone the repository
 
 ```bash
-git clone https://github.com/aquilesfalcaoo/financehub-api.git
+git clone https://github.com/aquilesfalcaoo/FinanceHub.git
 ```
 
 Restore packages
