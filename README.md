@@ -84,7 +84,6 @@ Dependencies always point inward.
 - Investments
 - Dashboard
 - Reports
-- Pagination
 - Global Exception Handling
 - Request Validation
 - Logging
