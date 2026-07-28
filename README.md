@@ -6,6 +6,8 @@ The project aims to simulate a real-world backend used by fintech companies, dem
 
 ---
 
+![FinanceHub](assets/images/cover.png)
+
 ## 🚀 Technologies
 
 - ASP.NET Core 8
